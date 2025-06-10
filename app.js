@@ -1,5 +1,5 @@
 // Declear Variable
-const colors = ['green','cyan','blue','skyblue','yellow','red','pink','brown','purple','magenta','gray'];
+const colors = ['green','cyan','blue','skyblue','yellow','red','pink','brown','purple','magenta','gray','violet'];
 const btn = document.querySelector('#btn');
 const color = document.querySelector('.color');
 
